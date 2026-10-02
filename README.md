@@ -8,7 +8,7 @@ My name is Wilson Varela, and I am a software developer with over four years of 
 
 * 🌍  I'm based in Lisbon
 * ✉️  You can contact me at [wilsonvarela13@hotmail.com](mailto:wilsonvarela13@hotmail.com)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning Angular 
 
 ### Skills
 
